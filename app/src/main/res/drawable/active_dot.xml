@@ -8,9 +8,6 @@
         android:width="8dip"
         android:height="8dip" />
 
-    <gradient
-        android:angle="180"
-        android:endColor="#FC5952"
-        android:startColor="#E8CA54"
-        android:type="linear" />
+<solid
+    android:color="@color/colorPrimary"/>
 </shape>

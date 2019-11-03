@@ -60,6 +60,7 @@
             android:padding="7dp"
             android:text="All Category"
             android:textSize="14dp"
+            android:textColor="@color/white"
             android:textStyle="bold" />
     </LinearLayout>
 </LinearLayout>
